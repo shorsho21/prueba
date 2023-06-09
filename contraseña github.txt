@@ -1,0 +1,35 @@
+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
+
+Pasos para commit
+
+git init
+
+git add .
+
+git commit -m "Mensaje del commit"
+
+git remote add origin <URL_DEL_REPOSITORIO>
+
+git push -u origin master
+
+
+usuario : shorsho21
+pass : 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
+
+
+clonar repositorio
+
+git clone <URL_DEL_REPOSITORIO>
+
+
+PARA ACTUALIZAR REPOSITORIO
+
+git add .
+
+git commit -m "Mensaje del commit"
+
+git push
+
+
+
+
